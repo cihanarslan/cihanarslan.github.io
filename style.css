@@ -1,0 +1,45 @@
+.band{
+	text-align: center;
+	background-color: #3366cc;
+	height: 50px;
+	padding-top: 15px;
+	color: white;
+	font-family: 'Jua', sans-serif;
+	margin-bottom: 20px;
+}
+
+.hp{
+	margin-top: 5px;
+	background-color: #004d4d;
+	text-align: center;
+	color: white;
+	height: 50px;
+	padding-top: 10px;
+}
+
+.exp{
+	padding: 5px 20px 0px 20px;
+	text-align: center;
+	color: brown;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 21px;
+}
+
+.links{
+	text-align: center;
+	font-family: 'Mina', sans-serif;
+	font-size: 20px;
+	color: brown;
+}
+
+.me{
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+.me span{
+	margin-left: 10px;
+	font-size: 47px;
+	font-family: 'Amatic SC', cursive;
+}
+
